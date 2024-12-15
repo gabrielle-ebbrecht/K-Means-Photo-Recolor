@@ -1,0 +1,9 @@
+numpy
+scikit-image
+matplotlib
+Pillow
+scikit-learn
+kneed
+colormath
+colorthief
+palettable
